@@ -11,7 +11,7 @@ Incluye funciones:
 ## Instalación en Google Colab
 
 ```python
-!pip install git+https://github.com/tuusuario/entrenador_AER.git
+!pip install git+https://github.com/ui4054/entrenadorAER.git
 ```
 
 ## Ejemplo de uso
